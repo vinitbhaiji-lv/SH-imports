@@ -38,7 +38,7 @@ function App() {
 
       {/* BEST SELLERS ANIMATION SECTION */}
       <BestSellers />
-
+          
       {/* NEXT SECTION */}
       <section className="min-h-screen flex items-center justify-center text-brand-gold">
         <h2 className="text-4xl">Next Section</h2>
